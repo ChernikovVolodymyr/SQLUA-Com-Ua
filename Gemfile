@@ -12,7 +12,7 @@ gem 'jbuilder'
 gem 'kamal', require: false
 gem 'pg', '~> 1.6'
 gem 'propshaft'
-gem 'rails', '~> 8.0.2'
+gem 'rails', '~> 8.0.3'
 gem 'solid_cable'
 gem 'solid_cache'
 gem 'solid_queue'
