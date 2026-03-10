@@ -83,7 +83,6 @@ GEM
     bcrypt_pbkdf (1.1.1)
     bcrypt_pbkdf (1.1.1-arm64-darwin)
     bcrypt_pbkdf (1.1.1-x86_64-darwin)
-    benchmark (0.5.0)
     bigdecimal (3.3.1)
     binding_of_caller (1.0.1)
       debug_inspector (>= 1.2.0)
@@ -244,9 +243,9 @@ GEM
     pry-byebug (3.11.0)
       byebug (~> 12.0)
       pry (>= 0.13, < 0.16)
-    pry-doc (1.6.0)
+    pry-doc (1.7.0)
       pry (~> 0.11)
-      yard (~> 0.9.11)
+      yard (~> 0.9.21)
     pry-rails (0.3.11)
       pry (>= 0.13.0)
     pry-stack_explorer (0.6.1)
@@ -402,7 +401,7 @@ GEM
     websocket-extensions (0.1.5)
     xpath (3.2.0)
       nokogiri (~> 1.8)
-    yard (0.9.37)
+    yard (0.9.38)
     zeitwerk (2.7.3)
 
 PLATFORMS
@@ -434,7 +433,7 @@ DEPENDENCIES
   propshaft
   pry (~> 0.15)
   pry-byebug (~> 3.11)
-  pry-doc (~> 1.6)
+  pry-doc (~> 1.7)
   pry-rails (~> 0.3)
   pry-stack_explorer (~> 0.6)
   puma (>= 5.0)
