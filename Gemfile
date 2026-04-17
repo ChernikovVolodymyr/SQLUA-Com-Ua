@@ -27,7 +27,7 @@ group :development, :test do
   gem 'bundler-leak', '~> 0.3.0'
   gem 'debug', platforms: %i[mri windows], require: 'debug/prelude'
   gem 'lefthook', '~> 2.0'
-  gem 'listen', '~> 3.3'
+  gem 'listen', '~> 3.10'
   gem 'pry', '~> 0.15'
   gem 'pry-byebug', '~> 3.11'
   gem 'pry-doc', '~> 1.6'
