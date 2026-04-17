@@ -23,7 +23,7 @@ gem 'tzinfo-data', platforms: %i[windows jruby]
 
 group :development, :test do
   gem 'brakeman', require: false
-  gem 'bundle-audit', '~> 0.1.0'
+  gem 'bundle-audit', '~> 0.2.0'
   gem 'bundler-leak', '~> 0.3.0'
   gem 'debug', platforms: %i[mri windows], require: 'debug/prelude'
   gem 'lefthook', '~> 2.0'
